@@ -1,0 +1,6 @@
+d:\users\parashar\documents\visual studio 2015\Projects\RefreshBasics\RefreshBasics\bin\Debug\RefreshBasics.exe.config
+d:\users\parashar\documents\visual studio 2015\Projects\RefreshBasics\RefreshBasics\bin\Debug\RefreshBasics.exe
+d:\users\parashar\documents\visual studio 2015\Projects\RefreshBasics\RefreshBasics\bin\Debug\RefreshBasics.pdb
+d:\users\parashar\documents\visual studio 2015\Projects\RefreshBasics\RefreshBasics\obj\Debug\RefreshBasics.csprojResolveAssemblyReference.cache
+d:\users\parashar\documents\visual studio 2015\Projects\RefreshBasics\RefreshBasics\obj\Debug\RefreshBasics.exe
+d:\users\parashar\documents\visual studio 2015\Projects\RefreshBasics\RefreshBasics\obj\Debug\RefreshBasics.pdb
